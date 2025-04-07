@@ -34,5 +34,5 @@ dayjs().format('HH:mm:ss')          // 12:39:27
 - ss – soniya
 
 
-## ReactJs da xozirgi vaqtni ko'rsatib turadigan soat yasaymiz :
+## ReactJs da xozirgi vaqtni ko'rsatadigan soat yasaymiz :
 ![Clock](./img//clock.png)
