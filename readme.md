@@ -9,10 +9,21 @@
 - npm i dayjs
 
 ## Foydalanish:
-- dayjs().format()                   // 2025-04-07T12:34:26+05:00   
-- dayjs().format('YYYY-MM-DD')       // 2025-04-07
-- dayjs().format('DD/MM/YYYY')       // 07/04/2025
-- dayjs().format('HH:mm:ss')         // 12:39:27
+- dayjs().format()                  
+- dayjs().format('YYYY-MM-DD')       
+- dayjs().format('DD/MM/YYYY')       
+- dayjs().format('HH:mm:ss')       
+
+## Js :
+```
+dayjs().format()                    // 2025-04-07T12:34:26+05:00    
+dayjs().format('YYYY-MM-DD')        // 2025-04-07
+dayjs().format('DD/MM/YYYY')        // 07/04/2025
+dayjs().format('HH:mm:ss')          // 12:39:27
+```
+
+
+
 
 ### Formatlar:
 - YYYY – yil
